@@ -1,0 +1,21 @@
+[submodule "plugins/start/nerdtree"]
+	path = plugins/start/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "plugins/start/nerdtree-git-plugin"]
+	path = plugins/start/nerdtree-git-plugin
+	url = https://github.com/Xuyuanp/nerdtree-git-plugin
+[submodule "colors/start/one"]
+	path = colors/start/one
+	url = https://github.com/rakr/vim-one.git
+[submodule "plugins/start/vim-devicons"]
+	path = plugins/start/vim-devicons
+	url = https://github.com/ryanoasis/vim-devicons
+[submodule "plugins/start/editorconfig"]
+	path = plugins/start/editorconfig
+	url = https://github.com/editorconfig/editorconfig-vim
+[submodule "plugins/start/fugitive"]
+	path = plugins/start/fugitive
+	url = https://tpope.io/vim/fugitive.git
+[submodule "plugins/start/lightline"]
+	path = plugins/start/lightline
+	url = https://github.com/itchyny/lightline.vim.git
